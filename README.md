@@ -1,3 +1,3 @@
-Tool Name: Quiz
-Creator: Vaibhav Trivedi
-Built using: HTML,CSS,Javascript
+Tool Name: Quiz<br/>
+Creator: Vaibhav Trivedi<br/>
+Built using: HTML,CSS,Javascript<br/>
